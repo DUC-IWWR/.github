@@ -20,7 +20,7 @@ La recherche nous apporte les données dont nous avons besoin pour adresser aux 
 Elle nous apporte crédibilité et influence auprès des gouvernements, des entreprises et des propriétaires fonciers.
 Elle guide nos travaux de conservation sur le terrain et nous permet de produire les meilleurs résultats pour les gens et la faune.
 
-[Visitez notre site](https://www.canards.ca/notre-travail/linstitut-de-recherche-sur-les-terres-humides-et-la-sauvagine/) for plus d'informations.
+[Visitez notre site](https://www.canards.ca/notre-travail/linstitut-de-recherche-sur-les-terres-humides-et-la-sauvagine/) our plus d'informations.
 
 Canards Illimités Canada est une communauté de passionnés qui croient que la nature est la pierre d’assise des collectivités florissantes, de la prospérité économique et de la pérennité qui permettra de réaliser les espoirs et les rêves de la prochaine génération.
 Ensemble, nous protégeons et restaurons les paysages les plus précieux et menacés de la planète.
